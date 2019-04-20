@@ -1,7 +1,7 @@
 # DL-CNN-RPC
 En este repositorio se encuenta todo el contenido asociado a la entrega del proyecto  **U3 (redes convolucionales)**, perteneciente al curso de posgrado Fundamentos de Deep Learning de la Universidad de Antioquia.
 
-En el proyecto se utiliza el dataset Retail Product Checkout dataset (RPC), para aplicar estrategias de resolución como: Transfer learning, Featuring Learning, Arquitectura de red CNN; tareas de aprendizaje como: Classification, Image Segmentation y Occlussion; y métricas de evaluación como: cálculo y gráficos de accuracy y loss, matrices de confusión y muestras aletorias de imágenes con las etiquetas originales y sus predicciones. 
+En el proyecto se utiliza el dataset [Retail Product Checkout dataset (RPC)](https://www.kaggle.com/diyer22/retail-product-checkout-dataset), para aplicar estrategias de resolución como: Transfer learning, Featuring Learning, Arquitectura de red CNN; tareas de aprendizaje como: Classification, Image Segmentation y Occlussion; y métricas de evaluación como: cálculo y gráficos de accuracy y loss, matrices de confusión y muestras aletorias de imágenes con las etiquetas originales y sus predicciones. 
 
 A continuación se detalla el contenido de cada notebook:
 
