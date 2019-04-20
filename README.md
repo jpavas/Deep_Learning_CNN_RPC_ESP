@@ -71,13 +71,6 @@ A continuación se detalla el contenido de cada notebook:
 
 ### Contenido
 1. Tareas preliminares
-	1.1. Importación de librerías y cargue del dataset RPC de test
-	1.2. Cargue del modelo
-    	1.3. Creación de funciones
-2. Oclusión de imágenes
-
-### Contenido
-1. Tareas preliminares
     1. Importación de librerías y cargue del dataset RPC de test
     2. Cargue del modelo
     3. Creación de funciones
