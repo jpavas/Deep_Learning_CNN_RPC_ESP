@@ -76,4 +76,11 @@ A continuación se detalla el contenido de cada notebook:
     1.3 Creación de funciones
 2. Oclusión de imágenes
 
+### Contenido
+- Tareas preliminares
+    - Importación de librerías y cargue del dataset RPC de test
+    - Cargue del modelo
+    - Creación de funciones
+- Oclusión de imágenes
+
 
