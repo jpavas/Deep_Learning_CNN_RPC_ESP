@@ -7,7 +7,7 @@ A continuación se detalla el contenido de cada notebook:
 
 ## U3.1 – Inicial
   
-  Descarga y caracterización inicial del conjunto de datos. Antes de explorar el contenido de este proyecto, es necesario **ejecutar completamente** este notebook.
+  **Descarga y caracterización inicial del conjunto de datos:** Antes de explorar el contenido de este proyecto, es necesario **ejecutar completamente** este notebook.
   
   ### Contenido
   1. Información general de la base de datos
@@ -25,3 +25,12 @@ A continuación se detalla el contenido de cada notebook:
   1. Importación de librerías y cargue del dataset RPC
   2. Creación del Modelo CNN
   3. Entrenamiento del modelo
+
+## U3.2.2 - Modelo CNN - Transfer Learning Inception V3
+**Transferencia de aprendizaje de InceptionV3 para el dataset RPC**: Se realiza Transfer Learning con el modelo InceptionV3, el cual fue pre-entrenado con el Dataset  Imagenet, para realizar tareas de clasificación con las 17 super categorías del dataset  Retail Product Checkout Dataset (RPC). En el proceso, la idea es utilizar InceptionV3 como extractor de características para facilitar la tarea de clasificación. El notebook tiene dos etapas:  Entrenamiento sin modificación de los pesos de InceptionV3 y  Fine-Tuning de algunas de las capas.
+### Contenido
+1. Actividades preliminares
+2. Carga del modelo InceptionV3
+3. Entrenamiento del modelo sin modificar los pesos de InceptionV3
+4. Fine - Tuning en InceptionV3
+
