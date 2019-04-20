@@ -77,10 +77,10 @@ A continuación se detalla el contenido de cada notebook:
 2. Oclusión de imágenes
 
 ### Contenido
-- Tareas preliminares
+1. Tareas preliminares
     - Importación de librerías y cargue del dataset RPC de test
     - Cargue del modelo
     - Creación de funciones
-- Oclusión de imágenes
+2. Oclusión de imágenes
 
 
