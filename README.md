@@ -65,3 +65,6 @@ A continuación se detalla el contenido de cada notebook:
 2. Definición modelo Deep Lab
 3. Validación Deep Lab con muestras del dataset
 
+## Colaboradores
+1. Jesus David Galarcio
+2. Juan Guillermo Pavas
